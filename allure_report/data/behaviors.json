@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Great-magna Login",
+    "children" : [ {
+      "name" : "User should be able to login",
+      "uid" : "f4b02c38e486f9e7",
+      "parentUid" : "4bfe01590eb56614399786af61adfcee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606839212227,
+        "stop" : 1606839225405,
+        "duration" : 13178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4bfe01590eb56614399786af61adfcee"
+  } ]
+}

@@ -1,0 +1,14 @@
+-e ./directory_tests_shared/
+allure-pytest
+beautifulsoup4
+directory-cms-client
+directory-sso-api-client
+directory-constants
+docopt
+lxml
+pytest==5.3.5
+pytest-django
+pytest-sugar==0.9.3
+requests
+retrying
+sigauth
